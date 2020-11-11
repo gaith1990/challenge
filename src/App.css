@@ -1,3 +1,13 @@
+/* #root{background-image: url("https://image.freepik.com/free-photo/dark-blue-gradient-mat-background_114579-5086.jpg")  ;} */
+  
+/* https://image.freepik.com/free-photo/gray-texture_1253-156.jpg */
+#root {
+  background: url(https://image.freepik.com/free-photo/dark-blue-gradient-mat-background_114579-5086.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 .App {
   text-align: center;
 }

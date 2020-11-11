@@ -1,0 +1,10 @@
+.listcard {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 2% 2%;
+}
+.msg {
+  color: wheat;
+  margin: auto;
+}

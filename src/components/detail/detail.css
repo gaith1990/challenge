@@ -1,0 +1,10 @@
+.form{display:flex;
+justify-content: space-between;
+margin: 7%;
+border: inset;
+border-color: tomato;}
+.formimg{width: 300PX;
+height: 250px;}
+.formtext{color: wheat;
+    font-style: italic;
+    font-family: fangsong;}
